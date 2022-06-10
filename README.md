@@ -8,3 +8,5 @@ This repository is built step by step in the tutorial.
 promjena dir preko githuba(koristen fetch and merge)
 
 nova promjena(povuceno samo s pullom)
+
+javljam se s push branch to github
